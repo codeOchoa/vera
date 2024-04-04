@@ -3,8 +3,8 @@
 	src: url("src/fonts/DK_Lemon_Yellow_Sun.otf") format("truetype");
 }
 body	{	
-	color: #efefef;
-	background-color: #252525;
+	color: #252525;
+	background-color: #efefef;
 	font-family: "DKLemonYellowSun", sans-serif;
 	overflow-x: hidden;
 	z-index: 1;

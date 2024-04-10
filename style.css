@@ -3,7 +3,7 @@
 	src: url("src/fonts/DK_Lemon_Yellow_Sun.otf") format("truetype");
 }
 body	{	
-	color: #252525;
+	color: #252525;								/*Rosa pastel #F6B8D0*/
 	background-color: #efefef;
 	font-family: "DKLemonYellowSun", sans-serif;
 	overflow-x: hidden;
